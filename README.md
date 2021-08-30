@@ -1,2 +1,2 @@
-# MessingWithOPEGL
+# MessingWithOpenGL
 My first OpenGL project
