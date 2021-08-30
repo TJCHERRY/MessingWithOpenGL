@@ -1,0 +1,10 @@
+﻿  co_Systems.cpp
+c:\users\tanuj\documents\visual studio 2015\projects\project\co-ordinate_systems\co_systems.cpp(1359): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tanuj\documents\visual studio 2015\projects\project\co-ordinate_systems\co_systems.cpp(1628): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tanuj\documents\visual studio 2015\projects\project\co-ordinate_systems\co_systems.cpp(1629): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tanuj\documents\visual studio 2015\projects\project\co-ordinate_systems\co_systems.cpp(1633): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tanuj\documents\visual studio 2015\projects\project\co-ordinate_systems\co_systems.cpp(1634): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tanuj\documents\visual studio 2015\projects\project\co-ordinate_systems\co_systems.cpp(1635): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tanuj\documents\visual studio 2015\projects\project\co-ordinate_systems\co_systems.cpp(1636): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Co-ordinate_Systems.vcxproj -> C:\Users\Tanuj\Documents\Visual Studio 2015\Projects\Project\Debug\Co-ordinate_Systems.exe
+  Co-ordinate_Systems.vcxproj -> C:\Users\Tanuj\Documents\Visual Studio 2015\Projects\Project\Debug\Co-ordinate_Systems.pdb (Partial PDB)
